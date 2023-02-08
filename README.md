@@ -1,0 +1,1 @@
+This is a repo containing a poject on Shell basics
