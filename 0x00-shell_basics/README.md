@@ -28,3 +28,5 @@
 
 14-copy_html => copy all html files in current dir to parent directory without coping present ones in parent dir
 
+100-lets_move => moves all files that start with uppercase to '/tmp/u' directory
+
