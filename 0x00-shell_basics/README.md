@@ -20,3 +20,5 @@
 
 10-back => change directory with the previous working directory
 
+11-lists => list the files in current, parent amd root directories
+
