@@ -30,3 +30,5 @@
 
 100-lets_move => moves all files that start with uppercase to '/tmp/u' directory
 
+101-clean_emacs => delete all files that end with '~'
+
