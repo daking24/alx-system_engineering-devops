@@ -16,4 +16,6 @@ DIR- This folder contains scripts based on shell permissions
 
 7-everybody: Adds execution permission to the owner, the group owner and the other users, to the file hello.
 
-8-
+8-James_Bond: sets the permission to the file 'hello' to only other users.
+
+9-
