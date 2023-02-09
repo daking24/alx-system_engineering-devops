@@ -8,3 +8,5 @@ DIR- This folder contains scripts based on shell permissions
 
 3-new_owner: Changes owner of file 'hello' to 'betty'.
 
+4-empty: Creates an empty file called 'hello'.
+
