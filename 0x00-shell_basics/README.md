@@ -36,4 +36,4 @@
 
 103-commas => list contents where dir end with '/' including hidden files where they should be alpha ordered with only digits and letters to sort
 
-104-
+school.mgc => Creates a magic file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0.
