@@ -17,3 +17,6 @@
 8-firstdelete => deleting betty file from /tmp/my_first_directory/
  
 9-firstdirdeletion => Deleting our created directory in /tmp
+
+10-back => change directory with the previous working directory
+
