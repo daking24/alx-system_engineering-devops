@@ -6,4 +6,4 @@
 5-listfilesdigitonly => Script that that display current dir contents including hidden files in long format with user & groups ID in numerical display
 6-firstdirectory => Script that creates a directory in the /tmp/ directory
 7-movethatfile => Script that moves a file called betty located in /tmp/ dir to our created dir
-
+8-firstdelete => deleting betty file from /tmp/my_first_directory/
