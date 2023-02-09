@@ -34,3 +34,6 @@
 
 102-tree => create dir 'welcome/', 'welcome/to' and 'welcome/to/school'
 
+103-commas => list contents where dir end with '/' including hidden files where they should be alpha ordered with only digits and letters to sort
+
+104-
