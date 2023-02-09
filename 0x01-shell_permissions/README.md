@@ -24,5 +24,6 @@ DIR- This folder contains scripts based on shell permissions
 
 11-directories_permissions: Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users without affecting the files.
 
-12-
+12-directory_permissions: Creates a directory called 'my_dir' with permissions 751 in the working directory.
 
+13-
