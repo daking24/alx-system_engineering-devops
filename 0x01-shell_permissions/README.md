@@ -18,4 +18,6 @@ DIR- This folder contains scripts based on shell permissions
 
 8-James_Bond: sets the permission to the file 'hello' to only other users.
 
-9-
+9-John_Doe: Sets file 'hello' to rwx for user, rx for group, wx for other users.
+
+10-
