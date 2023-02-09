@@ -4,3 +4,5 @@ DIR- This folder contains scripts based on shell permissions
 
 1-who_am_i: Prints Current User's username.
 
+2-groups: Prints Groups that Current User is a part of
+
