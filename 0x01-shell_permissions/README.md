@@ -22,4 +22,7 @@ DIR- This folder contains scripts based on shell permissions
 
 10-mirror_permissions: Set file 'hello' permissions to be the same as 'olleh'.
 
-11-
+11-directories_permissions: Adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users without affecting the files.
+
+12-
+
