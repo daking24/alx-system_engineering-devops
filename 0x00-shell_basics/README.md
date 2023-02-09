@@ -32,3 +32,5 @@
 
 101-clean_emacs => delete all files that end with '~'
 
+102-tree => create dir 'welcome/', 'welcome/to' and 'welcome/to/school'
+
