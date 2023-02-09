@@ -24,3 +24,6 @@
 
 12-file_type =>  Prints the type of file 'iamfile' in /tmp dir is
 
+13-symbolic_link => Creates a symbolic link to '/bin/ls', named '__ls__'. The symbolic link should be created in the current working directory.
+
+14
