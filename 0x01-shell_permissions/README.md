@@ -20,4 +20,6 @@ DIR- This folder contains scripts based on shell permissions
 
 9-John_Doe: Sets file 'hello' to rwx for user, rx for group, wx for other users.
 
-10-
+10-mirror_permissions: Set file 'hello' permissions to be the same as 'olleh'.
+
+11-
