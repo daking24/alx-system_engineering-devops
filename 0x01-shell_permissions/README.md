@@ -26,4 +26,5 @@ DIR- This folder contains scripts based on shell permissions
 
 12-directory_permissions: Creates a directory called 'my_dir' with permissions 751 in the working directory.
 
-13-
+13-change_group: Changes the group owner to 'school' for the file 'hello'
+
