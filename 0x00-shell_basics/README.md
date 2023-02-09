@@ -22,3 +22,5 @@
 
 11-lists => list the files in current, parent amd root directories
 
+12-file_type =>  Prints the type of file 'iamfile' in /tmp dir is
+
