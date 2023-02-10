@@ -34,5 +34,4 @@ DIR- This folder contains scripts based on shell permissions
 
 102-if_only: Changes the owner of the file 'hello' to 'betty' only if it is owned by the user 'guillaume'.
 
-103-
-
+103-Star_Wars: Watch Star wars in terminal. N.B- You need telnet.
